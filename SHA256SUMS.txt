@@ -1,0 +1,1 @@
+Generated package checksums should be recalculated whenever repository artifacts change.
